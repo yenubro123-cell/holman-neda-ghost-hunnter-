@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sathya Holman - ලංකාවේ අප්‍රසිද්ධ අභිරහස් (සම්පූර්ණ වාර්තාව)</title>
+    <style>
+        body { background-color: #050505; color: #b0b0b0; font-family: 'Iskoola Pota', sans-serif; margin: 0; padding: 0; line-height: 1.8; }
+        .header { background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.95)), url('https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1350&q=80'); padding: 100px 20px; text-align: center; border-bottom: 5px solid #660000; }
+        h1 { color: #ff0000; font-size: 3.2em; text-transform: uppercase; margin: 0; text-shadow: 0 0 15px rgba(255,0,0,0.7); }
+        .content { max-width: 1050px; margin: 40px auto; padding: 20px; }
+        .secret-report { background: #0f0f0f; border: 1px solid #222; margin-bottom: 60px; padding: 40px; border-radius: 5px; position: relative; box-shadow: inset 0 0 20px rgba(255,0,0,0.05); }
+        .secret-report::before { content: "CLASSIFIED: UNKNOWN LOCATION"; position: absolute; top: -15px; left: 30px; background: #cc0000; color: white; padding: 3px 15px; font-size: 13px; font-weight: bold; border-radius: 3px; }
+        h2 { color: #ffcc00; font-size: 1.9em; border-bottom: 1px solid #444; padding-bottom: 15px; margin-top: 0; }
+        .meta-data { color: #00aaff; font-weight: bold; font-size: 1em; display: block; margin-bottom: 20px; text-transform: uppercase; }
+        p { font-size: 1.15em; text-align: justify; color: #d0d0d0; }
+        .warning-box { background: #200000; border: 1px solid #ff0000; padding: 20px; margin-top: 25px; color: #ff9999; font-style: italic; }
+        b { color: #ffffff; text-shadow: 0 0 5px rgba(255,255,255,0.2); }
+        .footer { text-align: center; padding: 60px; background: #000; color: #555; border-top: 1px solid #1a1a1a; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>SATHYA HOLMAN</h1>
+    <p style="color: #ffcc00; font-size: 1.3em; letter-spacing: 2px;">ගවේෂණය නොකළ අප්‍රසිද්ධ අභිරහස් ස්ථාන - 2026</p>
+</div>
+
+<div class="content">
+
+    <div class="secret-report">
+        <span class="meta-data">📍 ගලේවෙල - මකුළුගස්වැව හුදකලා මන්දිරය</span>
+        <h2>01. මකුළුගස්වැව රුදුරු බංගලාව</h2>
+        <p>ගලේවෙල නගරයෙන් ඔබ්බට වන්නට පිහිටි මෙම මන්දිරය අද වන විට මහා කැලෑවකින් වැසී ගොස් ඇත. ඉතිහාස වාර්තාවලට අනුව 1940 දශකයේ මෙහි විසූ එක්තරා විදේශිකයෙකු ඔහුගේ සේවකයන්ට අතිශය අමානුෂික ලෙස සලකා තිබේ. ඔහු විසින් මරා දැමූ සේවකයන්ගේ සිරුරු බංගලාව පිටුපසම වළ දමා ඇති බව ගැමියන් පවසයි. <b>රාත්‍රී 12න් පසු</b> බංගලාව ඇතුළතින් විලාප හඬවල්, යකඩ දම්වැල් ඇදගෙන යන හඬවල් සහ බඩු පොළොවේ ගසන ශබ්ද පැහැදිලිව ඇසෙන බව අවට වැසියන් පවසති. වරක් මෙහි ගිය ගවේෂකයෙකු පවසා ඇත්තේ බංගලාව ඇතුළතදී කිසිවෙකු තමාගේ බෙල්ල මිරිකන බව දැනුණු බවයි.</p>
+        <div class="warning-box">විශේෂ කරුණ: මෙම ස්ථානය අසල ඇති විශාල නුග ගස අසලදී අමුතු රතු ඇස් ඇති රූප දර්ශනය වන බව වාර්තා වී ඇත.</div>
+    </div>
+
+    <div class="secret-report">
+        <span class="meta-data">📍 අගලවත්ත - පෞරාණික නිහඬ මන්දිරය</span>
+        <h2>02. අගලවත්ත වලව්වේ අභිරහස</h2>
+        <p>අගලවත්ත ප්‍රදේශයේ හුදකලා කඳු ගැටයක් මත පිහිටි මෙම වලව්ව තවමත් එදා පැවති පෙනුමෙන්ම පවතී. මෙහි විසූ වලව්කාර පවුලක තරුණ දියණියක අකාලයේ මියගොස් ඇති අතර, ඇයගේ ආත්මය අදටත් වලව්ව තුළ සැරිසරන බව කියවේ. රාත්‍රියට වලව්ව දෙසින් <b>පැරණි පියානෝවක්</b> වාදනය වන ශබ්දය ඉතා පැහැදිලිව ඇසෙන බවත්, සුදු ඇඳුමෙන් සැරසුණු කාන්තාවක උඩුමහලේ ජනේලය අසල සිට බලා සිටින බවත් බොහෝ දෙනා දැක ඇත. මෙහි ඇති තවත් අභිරහසක් වන්නේ වලව්ව ඇතුළතින් නිරන්තරයෙන් වහනය වන අමුතු සුවඳ විලවුන් සුවඳයි.</p>
+        <div class="warning-box">අත්දැකීම: මෙහි රැය ගත කළ ඇතැම් අයට නින්දේදී තමන්ගේ ඇඳ එහා මෙහා සෙලවෙන බවත්, කවුරුන් හෝ තමන්ට කතා කරන බවත් දැනී තිබේ.</div>
+    </div>
+
+    <div class="secret-report">
+        <span class="meta-data">📍 බලංගොඩ - කල්තොට හුදකලා පාර</span>
+        <h2>03. මරණයේ මාවත - කල්තොට</h2>
+        <p>බලංගොඩ සිට කල්තොට දක්වා යන මාර්ගයේ එක්තරා හුදකලා වංගුවක් පවතී. මෙම ස්ථානයේදී රාත්‍රී කාලයේදී වාහන පවා නතර වන බව වාර්තා වේ. රියදුරන් පවසන පරිදි, පාර මැද අමුතු සත්වයන් (බල්ලන් වැනි නමුත් මිනිස් ඇස් ඇති) පැනීම නිසා අනතුරු රාශියක් සිදුවී ඇත. මෙහිදී <b>මොහිණී</b> වැනි අද්භූත රූප දර්ශනය වන බවත්, ඇතැම් විට වාහන වල පිටුපස අසුනේ කිසිවෙකු වාඩි වී සිටින බව කණ්ණාඩියෙන් පෙනෙන බවත් රියදුරන් පවසති. මෙම මාර්ගය අතීතයේ සිටම අඳුරු බලවේගයන්ගේ අඩවියක් ලෙස ප්‍රසිද්ධය.</p>
+    </div>
+
+    <div class="secret-report">
+        <span class="meta-data">📍 තෙල්දෙනිය - වික්ටෝරියා ජලාශය යට</span>
+        <h2>04. වික්ටෝරියා වේල්ල යට මළවුන්ගේ නගරය</h2>
+        <p>වික්ටෝරියා ජලාශය ඉදිකිරීමේදී පැරණි තෙල්දෙනිය නගරය සම්පූර්ණයෙන්ම ජලයෙන් යට විය. අදටත් නියං කාලයට ජලය බැස ගිය විට එම පැරණි ගොඩනැගිලි සහ පන්සල දැකගත හැකිය. එම කාලයට එම ස්ථානය අතිශය භයානක සහ අද්භූත එකක් වේ. ජලය යටින් <b>ඝණ්ඨාර හඬවල්</b> සහ මිනිසුන් කෑගසන හඬවල් ඇසෙන බවත්, මියගිය අයගේ ආත්ම ජලය මතුපිට ඇවිදින බවත් ප්‍රදේශවාසීන් පවසති. ජලය බැස යන කාලයට මෙහි යන සංචාරකයන්ට අමුතු භීතියක් සහ පපුවේ බර ගතියක් දැනෙන බව වාර්තා වේ.</p>
+        <div class="warning-box">විශේෂ රහස: ජලය යට ඇති පැරණි මිනී කනත්තක් නිසා මෙම ප්‍රදේශයේ අද්භූත ශක්තිය වැඩි බව කියවේ.</div>
+    </div>
+
+    <div class="secret-report">
+        <span class="meta-data">📍 රක්වාන - සිංහරාජ මායිම</span>
+        <h2>05. හඳපාන් ඇල්ලේ රන් තැටිය</h2>
+        <p>මෙය ලංකාවේ පිහිටි අතිශය ලස්සන නමුත් භයානක ඇල්ලකි. ජනප්‍රවාදයට අනුව පෝය දිනවල මැදියම් රාත්‍රියේදී ඇල්ල මුදුනේ <b>රන් තැටියක්</b> පාවෙන බව කියවේ. මෙය නිධානයක් ආරක්ෂා කරන බලවේගයක් බව ගැමියන් විශ්වාස කරයි. මෙම ඇල්ල අසල රාත්‍රිය ගත කළ සංචාරකයන් පවසා ඇත්තේ කැලෑව ඇතුළතින් ස්ත්‍රියකගේ ගීත ගායනා කරන හඬ ඇසෙන බවයි. මෙහි නිදන් සෙවීමට ගිය බොහෝ පිරිස් අද්භූත ලෙස අතුරුදන් වී ඇති අතර ඔවුන්ට කුමක් වුණාදැයි අදටත් රහසකි.</p>
+    </div>
+
+</div>
+
+<div class="footer">
+    <p>Sathya Holman - ලංකාවේ රහසිගත අභිරහස් ගවේෂණ ජාලය © 2026</p>
+    <p>සටහන: මෙම තොරතුරු සත්‍ය සිදුවීම් සහ ජනප්‍රවාද ඇසුරින් සකස් කරන ලදී.</p>
+</div>
+
+</body>
+</html>
