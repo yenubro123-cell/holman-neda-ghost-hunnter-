@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Encyclopedia - Sathya Holman</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #ddd;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #111;
+            padding: 50px;
+            text-align: center;
+            border-bottom: 2px solid #ff0000;
+        }
+        header h1 {
+            color: #ff0000;
+            letter-spacing: 5px;
+            font-size: 3em;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        .ghost-section {
+            background: #0a0a0a;
+            border: 1px solid #333;
+            margin-bottom: 40px;
+            padding: 30px;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+        .ghost-section:hover {
+            border-color: #ff0000;
+            box-shadow: 0 0 20px rgba(255, 0, 0, 0.2);
+        }
+        h2 {
+            color: #ff4d4d;
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+        .info-box {
+            background: #1a0000;
+            padding: 15px;
+            border-left: 4px solid #ff0000;
+            margin: 20px 0;
+        }
+        p {
+            line-height: 1.8;
+            font-size: 1.1em;
+            text-align: justify;
+        }
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #555;
+            font-size: 0.9em;
+        }
+        .nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .nav a {
+            color: #ff0000;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>GHOST ENCYCLOPEDIA</h1>
+    <p>අද්භූත ලෝකයේ අප්‍රකට තොරතුරු ගවේෂණය</p>
+</header>
+
+<div class="container">
+    <div class="nav">
+        <a href="#poltergeist">Poltergeists</a> | 
+        <a href="#shadow">Shadow People</a> | 
+        <a href="#residual">Residuals</a> | 
+        <a href="#bek">Black Eyed Kids</a> | 
+        <a href="#mimic">Mimic</a>
+    </div>
+
+    <div class="ghost-section" id="poltergeist">
+        <h2>1. පෝල්ටර්ජයිස්ට් (Poltergeists)</h2>
+        <p>ලෝකයේ වඩාත්ම වාර්තා වී ඇති හොල්මන් වර්ගය මෙයයි. "Poltergeist" යන්නෙහි තේරුම ඝෝෂාකාරී ආත්මය යන්නයි. මොවුන් භෞතික ලෝකයට බලපෑම් කිරීමට සමත්ය. බොහෝ විට මොවුන් යම් පුද්ගලයෙකු කේන්ද්‍ර කරගෙන ක්‍රියා කරයි.</p>
+        <div class="info-box">
+            <b>හඳුනාගත හැකි ලක්ෂණ:</b> ගෘහ භාණ්ඩ ඉබේ චලනය වීම, බිත්ති වලට තට්ටු කරන ශබ්ද ඇසීම සහ විදුලි උපකරණ වල අක්‍රමිකතා.
+        </div>
+    </div>
+
+    <div class="ghost-section" id="shadow">
+        <h2>2. සෙවනැලි මිනිසුන් (Shadow People)</h2>
+        <p>සෙවනැලි මිනිසුන් යනු අඳුරට වඩා තද කළු පැහැති රූපයි. මොවුන් බොහෝ විට පෙනී සිටින්නේ ඇසේ කොනකිනි. මොවුන්ව "Hat Man" සහ "Hooded Figures" ලෙස වර්ගීකරණය කරයි. මොවුන් පෙනී සිටින විට කාමරයේ උෂ්ණත්වය එකවරම පහත වැටේ.</p>
+    </div>
+
+    <div class="ghost-section" id="residual">
+        <h2>3. අවශේෂ ආත්ම (Residual Hauntings)</h2>
+        <p>මෙය සැබෑ ආත්මයකට වඩා අතීතයේ පටිගත වීමකි. එම ස්ථානයේ සිදු වූ දරුණු සිදුවීමක මතකය පරිසරයේ තැන්පත් වේ. මෙය හරියට පරණ චිත්‍රපටයක් නැවත නැවත පෙන්වනවා වැනි ක්‍රියාවලියකි.</p>
+    </div>
+
+    <div class="ghost-section" id="bek">
+        <h2>4. බ්ලැක් අයිඩ් චිල්ඩ්‍රන් (Black Eyed Kids)</h2>
+        <p>සම්පූර්ණ කළු ඇස් ඇති දරුවන් රාත්‍රියේදී ඔබෙන් උදව් ඉල්ලයි. ඔවුන්ට නිවසට ඇතුළු වීමට ඔබ අවසර දිය යුතුය. අවසර නොදෙන තෙක් ඔවුන්ට ඔබට හානි කළ නොහැකි වුවත්, ඔවුන්ගේ පැමිණීම මරණීය බියක් ගෙන එයි.</p>
+    </div>
+
+    <div class="ghost-section" id="mimic">
+        <h2>5. මිමික් (Mimic)</h2>
+        <p>මිමික් යනු ඔබ දන්නා කෙනෙකුගේ වෙස් ගෙන පැමිණෙන ජීවියෙකි. ඔබ තනිව සිටින විට ඔබේ නම කියා කවුරුන් හෝ කතා කළහොත්, ඒ මිමික් කෙනෙකු වීමට ඉඩ ඇත. ඔවුන්ගේ අරමුණ ඔබව නොමඟ යවා ඔවුන්ගේ ගොදුරක් කර ගැනීමයි.</p>
+    </div>
+
+</div>
+
+<footer>
+    &copy; 2026 Sathya Holman Project | සියලුම හිමිකම් ඇවිරිණි.
+</footer>
+
+</body>
+</html>
