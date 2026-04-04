@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skin-walker Legend | Ghost Hunter</title>
+    <style>
+        body {
+            background-color: #0a0a0a;
+            color: #d1d1d1;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #1a1a1a;
+            padding: 30px;
+            border-radius: 10px;
+            border: 1px solid #333;
+            box-shadow: 0 0 20px rgba(255, 0, 0, 0.1);
+        }
+        h1 {
+            color: #bc0000;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            border-bottom: 2px solid #bc0000;
+            padding-bottom: 10px;
+        }
+        .fact-list {
+            list-style: none;
+            padding: 0;
+        }
+        .fact-list li {
+            background: #252525;
+            margin-bottom: 10px;
+            padding: 15px;
+            border-left: 5px solid #bc0000;
+            transition: 0.3s;
+        }
+        .fact-list li:hover {
+            background: #333;
+            transform: translateX(10px);
+        }
+        .warning {
+            color: #ffc107;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>The Legend of the Skin-walker</h1>
+    
+    <ul class="fact-list">
+        <li>1. Skin-walker යනු නවජෝ (Navajo) සංස්කෘතියෙන් පැවත එන අද්භූත ජීවියෙකි.</li>
+        <li>2. මොවුන් ඕනෑම සතෙකුගේ වේශයක් ගැනීමට හැකි මායාකරුවන් ලෙස සැලකේ.</li>
+        <li>3. සාමාන්‍යයෙන් වෘකයන්, මී හරකුන් හෝ කපුටන්ගේ වේශයෙන් මොවුන් පෙනී සිටියි.</li>
+        <li>4. මොවුන්ට මිනිස් කටහඬවල් ඉතා නිවැරදිව අනුකරණය කිරීමට හැකියාව ඇත.</li>
+        <li>5. රාත්‍රී කාලයේදී ඉතා වේගයෙන් දිවීමට සහ ගස් නැගීමට මොවුන්ට පුළුවන.</li>
+        <li>6. Skin-walker කෙනෙකුගේ ඇස් දෙස බැලීමෙන් ඔවුන්ට පුද්ගලයෙකු පාලනය කළ හැකි බව කියවේ.</li>
+        <li>7. නවජෝ ජනයා විශ්වාස කරන්නේ මොවුන් නපුරු මායාකර්ම කරන පිරිසක් බවයි.</li>
+        <li>8. මොවුන් බොහෝ විට හුදකලා පාරවල් වල සහ කැලෑබද ප්‍රදේශ වල සැරිසරයි.</li>
+        <li>9. සාමාන්‍ය අවි ආයුධ වලින් මොවුන්ව මරා දැමීම අපහසු බව ජනප්‍රවාදයේ ඇත.</li>
+        <li>10. මොවුන්ගේ නම ශබ්ද කර කතා කිරීම පවා ඔවුන්ව ආකර්ෂණය කර ගැනීමක් ලෙස සැලකේ.</li>
+    </ul>
+
+    <p class="warning">පරීක්ෂාකාරී වන්න... සමහර දේවල් නොදැන සිටීම ආරක්ෂිතයි.</p>
+</div>
+
+</body>
+</html>
