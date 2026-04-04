@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mimic Ghost Hunter - Sathya Holman</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;700&display=swap');
+
+        body {
+            background-color: #050505;
+            color: #ccc;
+            font-family: 'Abhaya Libre', serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        /* Header Section */
+        header {
+            background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1505635330303-3195307ad664?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+            background-size: cover;
+            height: 60vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 3px solid #ff0000;
+        }
+
+        header h1 {
+            font-size: 4em;
+            color: #ff0000;
+            text-shadow: 5px 5px 15px #000;
+            letter-spacing: 10px;
+            text-transform: uppercase;
+        }
+
+        /* Content Section */
+        .content {
+            max-width: 900px;
+            margin: -50px auto 50px auto;
+            background: #111;
+            padding: 50px;
+            border-radius: 10px;
+            box-shadow: 0 0 30px rgba(255, 0, 0, 0.2);
+            position: relative;
+        }
+
+        h2 {
+            color: #ff4d4d;
+            border-left: 5px solid #ff0000;
+            padding-left: 15px;
+            margin-top: 40px;
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.8;
+            text-align: justify;
+        }
+
+        .fact-card {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+
+        .fact-card b {
+            color: #ffcc00;
+        }
+
+        /* Ghostly Effect */
+        .warning-box {
+            background: #300;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-weight: bold;
+            border: 2px dashed #f00;
+            animation: blink 1.5s infinite;
+        }
+
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            background: #000;
+            color: #555;
+            border-top: 1px solid #222;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>THE MIMIC</h1>
+</header>
+
+<div class="content">
+    <div class="warning-box">අවවාදයයි: ඔබ ඇසෙන සෑම දෙයක්ම සත්‍ය නොවේ!</div>
+
+    <h2>කවුද මේ මිමික් (Mimic)?</h2>
+    <p>මිමික් යනු අතීත ජනප්‍රවාද වල සිට නූතන Horror ක්‍රීඩා දක්වා හමුවන අතිශය ප්‍රයෝගකාරී අද්භූත ජීවියෙකි. මොවුන්ගේ විශේෂත්වය වන්නේ වෙනත් ඕනෑම සජීවී වස්තුවක හෝ ශබ්දයක ස්වරූපය ඒ අයුරින්ම පිටපත් කිරීමට ඇති හැකියාවයි. මොවුන් දඩයම් කරන්නේ බියෙන් නොව, "විශ්වාසය" පාවා දීමෙනි.</p>
+
+    <div class="fact-card">
+        <b>දර්ශනය:</b> සාමාන්‍යයෙන් මොවුන්ව දැකිය හැක්කේ කෙළින්ම නොව, ඇසේ කොනකිනි (Peripheral Vision). ඔබ දෙස බලන විට ඔවුන් නොපෙනී යයි.
+    </div>
+
+    <h2>ප්‍රධාන දඩයම් උපක්‍රම</h2>
+    <p>මිමික් කෙනෙකු සාමාන්‍යයෙන් ඔබේ නිවසට ඇතුළු වූ පසු සති කිහිපයක් ඔබව නිරීක්ෂණය කරයි. ඔබ වැඩියෙන්ම කතා කරන පුද්ගලයා කවුද, ඔබ වැඩියෙන්ම බය කුමකටද යන්න ඔවුන් ඉගෙන ගනී. ඉන්පසු ඔවුන් එම පුද්ගලයාගේ කටහඬ අනුකරණය කරමින් ඔබව රහසිගත ස්ථාන වලට කැඳවයි.</p>
+
+    <h2>හඳුනා ගන්නේ කොහොමද?</h2>
+    <ul>
+        <li>කටහඬේ ඇති අස්වාභාවික "හිරවීම්" (Static noises).</li>
+        <li>ඔබ දන්නා කෙනෙකු වුවත් ඔවුන්ගේ ඇස් වල ඇති ජීවයක් නොමැති ගතිය.</li>
+        <li>සතුන් (බල්ලන්, බළලුන්) ඔවුන් අසලදී අධික ලෙස බිය වීම හෝ බිරීම.</li>
+    </ul>
+
+    <p>ඔබ අසා ඇති බොහෝ "හොල්මන් කථා" වල තිබෙන, "කවුරුහරි කතා කළා ඒත් කවුරුත් හිටියේ නෑ" යන සිදුවීම් පිටුපස සිටින්නේ මොවුන්ය. සැමවිටම මතක තබා ගන්න, ඔබ තනිව සිටින විට කවුරුන් හෝ කතා කළහොත් වහාම පිළිතුරු නොදෙන්න.</p>
+</div>
+
+<footer>
+    &copy; 2026 Sathya Holman - Ghost Hunter Project | GitHub: yenubro123-cell
+</footer>
+
+</body>
+</html>
