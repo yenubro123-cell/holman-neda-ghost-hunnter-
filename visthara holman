@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holman Directory - Full Details</title>
+    <style>
+        body {
+            background-color: #0a0a0a;
+            color: #d1d1d1;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 40px 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        h1 {
+            color: #ff0000;
+            font-size: 2.5rem;
+            text-shadow: 0 0 15px rgba(255, 0, 0, 0.7);
+        }
+
+        .content-box {
+            max-width: 850px;
+            margin: 0 auto;
+        }
+
+        .ghost-entry {
+            background: #161616;
+            border: 1px solid #333;
+            padding: 30px;
+            margin-bottom: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+        }
+
+        .ghost-title {
+            font-size: 1.8rem;
+            color: #ff4d4d;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+            display: block;
+        }
+
+        .details {
+            text-align: justify;
+        }
+
+        .danger-tag {
+            display: inline-block;
+            background: #4d0000;
+            color: #ff4d4d;
+            padding: 5px 15px;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-top: 15px;
+            font-size: 0.85rem;
+            border: 1px solid #ff4d4d;
+        }
+
+        strong {
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>භයානක භූත සහ ප්‍රේත ආත්ම පිළිබඳ විස්තර</h1>
+    <p>ලෝකයේ සහ අපේ රටේ වාර්තා වන දරුණුතම අමනුෂ්‍ය ආත්ම පිළිබඳ සම්පූර්ණ විස්තරය.</p>
+</div>
+
+<div class="content-box">
+
+    <div class="ghost-entry">
+        <span class="ghost-title">1. පොල්ටර්ජයිස්ට් (Poltergeist)</span>
+        <div class="details">
+            <strong>ස්වභාවය:</strong> මොවුන් සාමාන්‍ය ප්‍රේත ආත්ම වලට වඩා හාත්පසින්ම වෙනස්ය. මොවුන්ට භෞතික වස්තූන් හැසිරවීමට සුවිශේෂී හැකියාවක් ඇත. 
+            <br><strong>ක්‍රියාකාරකම්:</strong> ගෙවල් වල ඇති බඩුමුට්ටු විසි කිරීම, දොරවල් තදින් වසා දැමීම, විදුලි උපකරණ ක්‍රියා විරහිත කිරීම සහ මහ හඬින් ශබ්ද කිරීම මොවුන්ගේ ප්‍රධාන ලක්ෂණ වේ. මොවුන් බොහෝ විට කිසියම් පුද්ගලයෙකු කේන්ද්‍ර කරගෙන (බොහෝ විට කුඩා ළමුන් හෝ තරුණ අය) තම බලය පෙන්වීමට උත්සාහ කරයි. මොවුන් ඇසට නොපෙනුනත් ඔවුන්ගෙන් සිදුවන හානිය ඉතා වැඩිය.
+        </div>
+        <div class="danger-tag">අනතුරුදායක මට්ටම: ඉතා ඉහළයි</div>
+    </div>
+
+    <div class="ghost-entry">
+        <span class="ghost-title">2. මළ ප්‍රේතයන් (The Mourning Souls)</span>
+        <div class="details">
+            <strong>ස්වභාවය:</strong> තමන්ගේ ජීවිතය කෙරෙහි තිබූ දැඩි ආශාව හෝ අතෘප්තිමත් බව නිසා මියගිය පසු එම ස්ථාන වලම රැඳී සිටින ආත්ම වේ. 
+            <br><strong>ක්‍රියාකාරකම්:</strong> මොවුන් තමන් ජීවත් වූ නිවෙස්වල හෝ තමන් මියගිය ස්ථාන වල සැරිසරයි. රාත්‍රී කාලයට අඬන ශබ්ද ඇසීම, සුපුරුදු සුවඳවල් දැනීම සහ යමෙකු තමන් දෙස බලා සිටිනවා වැනි හැඟීමක් ඇති කිරීම මොවුන්ගෙන් සිදු වේ. මොවුන්ගෙන් සෘජු ශාරීරික හානි සිදු නොවුණත්, මිනිසුන්ගේ මානසිකත්වය බිඳ වැට්ටවීමට මොවුන් සමත් වේ.
+        </div>
+        <div class="danger-tag">අනතුරුදායක මට්ටම: මධ්‍යම</div>
+    </div>
+
+    <div class="ghost-entry">
+        <span class="ghost-title">3. ඩීමන්ස් (Demons)</span>
+        <div class="details">
+            <strong>ස්වභාවය:</strong> මොවුන් මිනිස් ආත්ම නොවේ. මොවුන් අනාදිමත් කාලයක සිට පවතින අඳුරු ශක්තීන් කොට්ඨාසයකි. 
+            <br><strong>ක්‍රියාකාරකම්:</strong> මොවුන් ඉතාමත් දරුණු සහ කපටි ආත්ම වේ. මිනිසුන්ව පාලනය කිරීමේ (Possession) හැකියාව මොවුන්ට ඇත. අස්වාභාවික සත්ව හඬවල් නැගීම, ඉතාමත් අප්‍රසන්න ගන්ධයන් පැතිරවීම සහ මිනිසුන්ට සීරීම් හෝ තැලීම් ඇති කිරීම මොවුන්ගේ ලක්ෂණ වේ. නිවසක සිටින සාමාජිකයන් අතර ආරවුල් ඇති කර එම නිවස විනාශ කිරීම මොවුන්ගේ අවසන් අරමුණයි.
+        </div>
+        <div class="danger-tag">අනතුරුදායක මට්ටම: අතිශය භයානකයි</div>
+    </div>
+
+    <div class="ghost-entry">
+        <span class="ghost-title">4. ශැඩෝ පීපල් (Shadow People)</span>
+        <div class="details">
+            <strong>ස්වභාවය:</strong> කළු පැහැති සෙවනැල්ලක් මෙන් දිස්වන මෙම ආත්ම ඇස් කොනින් පමණක් දැකගත හැකිය. 
+            <br><strong>ක්‍රියාකාරකම්:</strong> මොවුන් කිසිදු හඬක් නොනගන අතර ඉතා වේගයෙන් චලනය වේ. බොහෝ විට ඇඳ අසල හෝ කාමර වල කොන් වල රැඳී සිටිමින් මිනිසුන් දෙස බලා සිටීමට මොවුන් ප්‍රිය කරයි. මොවුන් දර්ශනය වූ සැනින් එම ස්ථානයේ උෂ්ණත්වය එකවරම පහත වැටෙන බව වාර්තා වේ.
+        </div>
+        <div class="danger-tag">අනතුරුදායක මට්ටම: අඩුයි</div>
+    </div>
+
+    <div class="ghost-entry">
+        <span class="ghost-title">5. මහසෝනා (Sri Lankan Folklore - Mahasona)</span>
+        <div class="details">
+            <strong>ස්වභාවය:</strong> ශ්‍රී ලාංකීය ජනප්‍රවාදයේ එන දරුණුතම යක්ෂයෙකි. වලසෙකුගේ හිසක් සහ මිනිස් සිරුරක් සහිත බව කියවේ. 
+            <br><strong>ක්‍රියාකාරකම්:</strong> රාත්‍රී කාලයේ තනිවම ගමන් කරන පුද්ගලයන්ට මොවුන්ගෙන් බලපෑම් ඇති වේ. යමෙකුගේ පිටට අතින් ගැසීම මොහුගේ සිරිතයි. එසේ පහර දුන් පසු එම පුද්ගලයාගේ පිටේ අල්ලේ සලකුණක් ඉතිරි වන බවත්, ඉන්පසු එම පුද්ගලයා දැඩි ලෙස රෝගාතුර වන බවත් විශ්වාස කෙරේ. සොහොන් පිටි අශ්‍රිතව මොහුගේ බලය වැඩි බව පැවසේ.
+        </div>
+        <div class="danger-tag">අනතුරුදායක මට්ටම: අතිශය භයානකයි</div>
+    </div>
+
+</div>
+
+</body>
+</html>
