@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ලෝකයේ බියජනකම ස්ථාන - Sathya Holman</title>
+    <style>
+        body {
+            background-color: #050505;
+            color: #ccc;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 400px;
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=1350&q=80');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 4px solid #900;
+        }
+
+        .hero h1 {
+            color: #ff0000;
+            font-size: 3.5em;
+            text-transform: uppercase;
+            letter-spacing: 8px;
+            text-shadow: 0 0 20px #f00;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        .haunted-place {
+            background: #111;
+            margin-bottom: 50px;
+            border: 1px solid #222;
+            padding: 40px;
+            border-radius: 5px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            transition: 0.4s;
+        }
+
+        .haunted-place:hover {
+            border-color: #ff0000;
+            transform: scale(1.01);
+        }
+
+        h2 {
+            color: #ff4d4d;
+            font-size: 2em;
+            border-left: 5px solid #ff0000;
+            padding-left: 15px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.8;
+            font-size: 1.1em;
+            text-align: justify;
+        }
+
+        .warning-label {
+            background: #200;
+            color: #f00;
+            display: inline-block;
+            padding: 5px 15px;
+            font-weight: bold;
+            font-size: 0.8em;
+            margin-bottom: 10px;
+            border: 1px solid #f0
